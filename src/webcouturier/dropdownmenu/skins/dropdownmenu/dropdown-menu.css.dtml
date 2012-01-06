@@ -29,7 +29,7 @@
 ** SUBMENU STYLES 
 */
 
-ul.submenu {
+#portal-globalnav ul {
     position: absolute;
     width: 15em;
     left:-999em;
